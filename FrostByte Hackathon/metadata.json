@@ -1,0 +1,8 @@
+{
+  "name": "SignSpeak",
+  "description": "A cutting-edge AI bridge facilitating seamless communication between the deaf, mute, and hearing communities using real-time gesture recognition and vocal synthesis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
